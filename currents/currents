@@ -1,0 +1,4 @@
+#!/bin/bash
+# currents — terminal information suite launcher
+
+exec python3 "/Users/jeffrey/claude/currents/main.py" "$@"

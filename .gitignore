@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Databases (generated at runtime)
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment / secrets
+.env
+*.env
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V7
+.Trashes
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Claude Code settings (local machine config)
+.claude/
+
+# worldmonitor has its own git repo — publish separately if desired
+worldmonitor/
+
+# Craigslist tracker — personal config and generated data files
+craigslist_rental_tracker/config.py
+craigslist_rental_tracker/cert.txt
+craigslist_rental_tracker/*.csv
+craigslist_rental_tracker/*.png
+craigslist_rental_tracker/*_backup.py

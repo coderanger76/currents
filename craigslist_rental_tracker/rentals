@@ -1,0 +1,15 @@
+#!/bin/bash
+# Craigslist Rental Tracker launcher script
+# Automatically activates virtual environment and runs the rental tracker
+
+# Get the directory where this script is located
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Activate virtual environment
+source "$SCRIPT_DIR/venv/bin/activate"
+
+# Apple app password (encoded)
+APP_PASSWORD="xgzr-lotj-eelc-gnba"
+
+# Run rental tracker with password and all passed arguments
+python "$SCRIPT_DIR/main.py" --password "$APP_PASSWORD" "$@"
