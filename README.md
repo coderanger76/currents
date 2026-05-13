@@ -8,7 +8,26 @@ A Bloomberg-style terminal information suite for macOS. One launcher, twelve mod
 
 ## Screenshot
 
-*(screenshots coming)*
+<img width="584" height="379" alt="image" src="https://github.com/user-attachments/assets/2f8242ad-8952-4de9-899f-640c7a63c534" />
+The main interface for the Currents app. Keyboard only, because mouse movements are wasteful.
+
+
+<img width="597" height="391" alt="image" src="https://github.com/user-attachments/assets/2bb10f50-7b59-46af-a807-315abf37ef99" />
+Each function is activated by a single keypress, ala Bloomberg Terminal. Get-Oil checks major cruide prices via Yahoo.
+
+<img width="640" height="516" alt="image" src="https://github.com/user-attachments/assets/020a8097-192a-4a82-afc9-c163031597c7" />
+The Get-Stocks function queries Yahoo and shows stock results globally.
+
+<img width="580" height="505" alt="image" src="https://github.com/user-attachments/assets/83458a0d-66b5-452e-a777-d455944605ea" />
+
+<img width="584" height="506" alt="image" src="https://github.com/user-attachments/assets/281d9aa7-01ea-457b-b7da-9f65512d3cca" />
+
+<img width="594" height="421" alt="image" src="https://github.com/user-attachments/assets/689c945c-ab19-4b22-9c14-28b9d1c85b9b" />
+
+Also included some Catholic stuff since I'm Catholic. You can query an API in the Czech Republic to pull down liturgical calendar entries, get a random Catholic Article from Wikipedia, a random US Diocese, or, soon to come, pull USCCB daily readings
+
+Enjoy!
+
 
 ---
 
